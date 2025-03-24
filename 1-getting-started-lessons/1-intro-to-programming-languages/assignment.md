@@ -19,3 +19,7 @@ These tools automate repetitive tasks in the development workflow i.e minificati
 These tools allow developers to create fast, secure and scalable websites by generating static HTML file from template or components. Example of these tools is:
 ### Hugo - 
 this tool is fast and flexible static site written in Go. Known for it's Speed and ease of use, making it a popular choice.
+## Containerization tools
+containerization enables developers packages and dependencies to isolated environment known as containers. example of containers is *Docker*
+### Docker
+Docker allows developers automate deployment of applications inside a lightweight portable containers. through these containers developers can easily collaborate and use dependencies specified within the deveolopment framework.
